@@ -31,8 +31,8 @@ Here's some words about the book _One Hundred Years of Solitude._
 
 The Latest News from [the BBC](https://www.bbc.com/news)
 
-Do you want to [see something fun: www.zombo.com]. [A fun place](https://www.zombo.com)
-Well, do I have [The website for you: www.stumbleupon.com]. [another fun place!](https://www.stumbleupon.com)
+Do you want to [see something fun](https://www.zombo.com). [A fun place](https://www.zombo.com)
+Well, do I have [The website for you](https://www.stumbleupon.com). [another fun place!](https://www.stumbleupon.com)
 
                         Images
 
