@@ -1,5 +1,5 @@
 # tinohyttinen.github.io
-##Tino Hyttinen web-tehtävä
+## Tino Hyttinen web-tehtävä
 
                         Italics and Bold
 
@@ -7,7 +7,7 @@ _Writing in markdown is not that hard!_
 
 I **will** complete these lessons!
 
-_Of course_, "she whispered, Then, she shouted: "All i need is a **little moxie!"**
+_Of course_, "she whispered, Then, she shouted: "All i need is **a little moxie!"**
 
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
@@ -27,27 +27,27 @@ Here's some words about the book _One Hundred Years of Solitude._
 
 [Search for it](https://www.Google.com) 
 
-[**You're really, really going to want to see this.**](https://www.dailykitten.com)
+[You're **really, really** going to want to see this.](https://www.dailykitten.com)
 
-The Latest News from the [BBC](https://www.bbc.com/news)
+The Latest News from [the BBC](https://www.bbc.com/news)
 
-Do you want to [see something fun][A fun place](https://www.zombo.com)
-Well, do I have [The website for you][another fun place!](https://www.stumbleupon.com)
+Do you want to [see something fun: www.zombo.com]. [A fun place](https://www.zombo.com)
+Well, do I have [The website for you: www.stumbleupon.com]. [another fun place!](https://www.stumbleupon.com)
 
                         Images
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
 [Black cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
-[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+![Black](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
 [Orange cat](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
-[Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+![Orange](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 
                         Blockquotes
 
 I read this interesting quote the other day:
->"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
+>"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"  
 
 >### Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
 >
@@ -73,30 +73,32 @@ I read this interesting quote the other day:
 
 * Calculus
     * A professor, Has no hair, Often wears green
+
 * Castafiore
     * An opera singer, Has white hair, Is possibly mentally unwell
 
- 1. Cute the cheese
+1. Cut the cheese
     * Make sure that the cheese is cut into little triangles.
+    * Make sure to be careful with the knife.
+
 2. Slice the tomatoes
     * Be careful when holding the knife.
     * For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
                       Paragraphs
 
-We pictured the meek mild creatures where  
-They dwelt in their strawy pen,  
-Nor did it occur to one of us there  
-To doubt they were kneeling then.  
+We pictured the meek mild creatures where They dwelt in  
+their strawy pen, Nor did it occur to one of us there To doubt  
+they were kneeling then.  
 
 1. Crack the eggs over a bowl.  
 
-Now, you're going to want to crack the eggs in such a way  
-that you don't make a mess. 
+   Now, you're going to want to crack the eggs in such a way  
+   that you don't make a mess. 
 
-If you _do_ make a mess, use a towel to clean it up!
+   If you _do_ make a mess, use a towel to clean it up!
 
-2. Pour a gallon of milk in to the bowl.  
-
-Basically, take the same guidance as above: don't be messy,  
-but if you are, clean it up!  
+2. Pour a gallon of milk in to the bowl.
+ 
+   Basically, take the same guidance as above: don't be messy,  
+   but if you are, clean it up!  
